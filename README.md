@@ -1,4 +1,4 @@
 # Least-square-beltrami-solver
-See paper: parametrizing flat-foldable surface with incomplete data
+See paper: Computing Quaisconformal Folds. arxiv: https://arxiv.org/abs/1804.03936
 
 This small software package contains the MATLAB function 'lsqc_solver' that solves the Beltrami equation using method described in the above paper. 
